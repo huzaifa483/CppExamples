@@ -2,3 +2,6 @@
 build/*
 # Except the .keep file
 !build/.keep
+
+# Ignore Qt Creator user config files
+CMakeLists.txt.user
